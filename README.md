@@ -1,4 +1,4 @@
-# bundletool
+bundletool
 
 Bundletool is a tool to manipulate Android App Bundles and Android SDK Bundles.
 
